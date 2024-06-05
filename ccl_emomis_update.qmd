@@ -11,19 +11,13 @@ format:
     #incremental: true
     aspect-ratio: 16:9
     slide-number: true
-    #footer: "Misinformation in den sozialen Medien" 
+    #footer: "@lue_jula" 
 title-slide-attributes:
     data-background-color: "#2A76DD" #univie color
     data-background-size: cover
 logo: "logos/uni_wien_logo_blue.jpg"
 editor: visual #visual editor
-
 ---
-# WORK IN PROGRESS
-
-::: notes
--   Disclaimer: This is a work in progress so I'm happy about any feedback or discussion later!
-:::
 
 ## Emotions and Misinformation
 
@@ -33,11 +27,11 @@ editor: visual #visual editor
 
 -   Missing link in partisan-based processing: emotions
 
-    -   Arousing emotions are signals to make us better select, process and memorize information
+    -   Signals to select, process and memorize information
 
     -   But also hinder systematic processing
 
--   In the context of misinformation, arousing emotions may reinforce partisan-biased processing
+$\rightarrow$ In the context of misinformation, arousing emotions may reinforce partisan-based processing
 
 ::: footer
 Altay et al., [2023](https://doi.org/10.1177/20563051221150412); Ecker et al., [2023](https://www.nature.com/articles/s44159-021-00006-y); Martel et al. [2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7539247/); Wardle & Derakhshan, [2017](http://tverezo.info/wp-content/uploads/2017/11/PREMS-162317-GBR-2018-Report-desinformation-A4-BAT.pdf)
@@ -57,8 +51,8 @@ Altay et al., [2023](https://doi.org/10.1177/20563051221150412); Ecker et al., [
 -   In the case of misinformation, arousing emotions may therefore reinforce partisan-based processing
 :::
 
+# Do emotions make people believe in misinformation?
 
-# Do emotions make people believe in misinformation? 
 ## Emotional state
 
 ::: columns
@@ -69,20 +63,17 @@ Altay et al., [2023](https://doi.org/10.1177/20563051221150412); Ecker et al., [
 
 -   False/accurate COVID-19 news headlines
 
--   Austria 2021 
+-   Austria 2021
 
 -   *N* = 422
 :::
-    
+
 ::: {.column width="60%"}
-<br> 
-<br>
+<br> <br>
 
 ![](images/Martel.png){width="1000"}
 :::
-
 :::
-
 
 $\rightarrow$ No effects of emotions on misinformation susceptibility
 
@@ -97,6 +88,9 @@ Luehring\*, Shetty\*, et al., [2023](https://psyarxiv.com/udqms/); Martel et al.
 -   In response to false news:
     -   More anger
     -   Less joy
+
+🗯 *"Bullshit", "Fake"*
+
 :::
 
 ::: {.column width="60%"}
@@ -112,36 +106,31 @@ Luehring\*, Shetty\*, et al., [2023](https://psyarxiv.com/udqms/)
 
 ![](images/curvi-linear.svg){width="1000"}
 
-::: fragment
 -   People with **good and bad discernment** got angry
--   Anger arose because **people recognized** false news and information contradicted prior knowledge
 
 $\rightarrow$ Function of emotions depends on existing beliefs
-:::
 
 ::: footer
 Luehring\*, Shetty\*, et al., [2023](https://psyarxiv.com/udqms/); Van Damme & Smets, [2014](https://psycnet.apa.org/record/2013-39652-001)
 :::
 
 # Misinformation on social media
-## Social groups and collective emotions 
 
+## Social groups and collective emotions
 
--   Negative, arousing emotions attract attention
+-   Moralizing and arousing content gets high engagement
 
--   Moralizing and negative content gets higher engagement
+-   Misinformation: more negative and conflictual
 
--   Misinformation: only 1-6% in 5 studies from 2016-2019
+    -   **But:** only 1-6% in 5 studies from 2016-2019
     -   Elite and ordinary partisan superspreaders
-    
 
 ::: columns
 ::: {.column width="50%"}
-<br>
+$\rightarrow$ Misinformation is embedded in intergroup dynamics
 
-$\rightarrow$ Misinformation is embedded in emotional and intergoup dynamics
+$\rightarrow$ Secondary effects?
 :::
-
 
 ::: {.column width="50%"}
 ![Nikolov et al., [2021](https://misinforeview.hks.harvard.edu/wp-content/uploads/2021/02/nikolov_partisanship_vulnerability_misinformation_20210215.pdf)](images/Nikolov.png){width="600"}
@@ -160,26 +149,24 @@ Bail, [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-
 -   So we would also expect misinformation to be embedded in such emotional dynamics, anger, and intergroup hate
 
 -   Where a major concern is not just how many people believe in it but secondary effects, such as loss in trust, growing affective polarization, and so on.
-
--   Therefore, we were wondering what the effects of misinformation are on online discussions, do they trigger conflict and anger, and does this then lead to higher engagement?
 :::
 
 # What are the effects of misinformation on social media discussions?
 
+::: notes
+-   Therefore, we were wondering what the effects of misinformation are on online discussions, do they trigger conflict and anger, and does this then lead to higher engagement?
+:::
+
 ## But: measurement matters!
 
 ::: columns
-
 ::: {.column width="40%"}
-
 ::: fragment
 ![](images/review-table.png){width="1000"}
 :::
-
 :::
 
 ::: {.column width="60%"}
-
 ![](images/newsguard-approaches.png){width="1000"}
 
 ::: fragment
@@ -187,17 +174,22 @@ $\rightarrow$ How does this influence downstream research results?
 
 $\rightarrow$ How volatile is NewsGuard?
 :::
-
-
 :::
-
-
 :::
 
 ::: footer
 Luehring, Lasser et al., (*in prep.*)
 :::
 
+::: notes
+-   When measuring misinformation, researchers have to make multiple decisions which majorly affect the sample
+
+-   For multiple reasons, it is really hard to identify misinformation, leading to researchers either picking outright falsehoods as factchecked stories or a few bad domains compared to a few good domains
+
+-   However, research has shown that the grey-area content may be more widely spread and more dangerous
+
+-   If you broaden the focus on bad information to include any content that might be misleading even if it does not involve outright falsehoods and fabrications, bad information is not easy to identify - by misinformation researchers or anyone else
+:::
 
 ## Problems with existing emotions and misinformation social media studies
 
@@ -216,11 +208,11 @@ Luehring, Lasser et al., (*in prep.*)
 ::: fragment
 2.  Different effects of emotions are overlooked
 
-        -   by measuring positive and negative sentiment only,
-
         -   mixing up emotional reactions with prior state, stimuli, etc.,
 
-        -   ignoring the function of emotions.
+        -   ignoring the function of emotions,
+
+        -   by measuring positive and negative sentiment only.
 :::
 :::
 :::
@@ -266,8 +258,6 @@ So, we derived 2 major objectives:
 
 -   Second, we tried a matching approach to approximate causal inference so that we could isolate the effects of untrustworthy sources
 :::
-
-
 
 ## Data collection
 
@@ -510,17 +500,10 @@ Carrella et al., [2023](https://osf.io/qx34w); Gonzalez-Bailon et al., [2010](ht
 
 ::: columns
 ::: {.column width="60%"}
-Email: [jula.luehring\@univie.ac.at](jula.luehring@univie.ac.at)
-
-Bluesky: [\@julaluehring.bsky.social](https://bsky.app/profile/julaluehring.bsky.social)
-
-X: [\@lue_jula](https://twitter.com/lue_jula)
-
 ![](logos/logos-combined.png){width="600"}
 :::
 
 ::: {.column width="40%"}
-![](images/frame.png){width="600"}
 :::
 :::
 
