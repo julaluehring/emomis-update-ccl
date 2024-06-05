@@ -131,19 +131,20 @@ Luehring\*, Shetty\*, et al., [2023](https://psyarxiv.com/udqms/); Van Damme & S
 
 -   Moralizing and negative content gets higher engagement
 
+-   Misinformation: only 1-6% in 5 studies from 2016-2019
     -   Elite and ordinary partisan superspreaders
     
 
 ::: columns
-::: {.column width="40%"}
+::: {.column width="50%"}
 <br>
 
 $\rightarrow$ Misinformation is embedded in emotional and intergoup dynamics
 :::
 
 
-::: {.column width="60%"}
-![Nikolov et al., [2021](https://misinforeview.hks.harvard.edu/wp-content/uploads/2021/02/nikolov_partisanship_vulnerability_misinformation_20210215.pdf)](images/Nikolov.png){width="800"}
+::: {.column width="50%"}
+![Nikolov et al., [2021](https://misinforeview.hks.harvard.edu/wp-content/uploads/2021/02/nikolov_partisanship_vulnerability_misinformation_20210215.pdf)](images/Nikolov.png){width="600"}
 :::
 :::
 
@@ -163,11 +164,38 @@ Bail, [2021](https://press.princeton.edu/books/hardcover/9780691203423/breaking-
 -   Therefore, we were wondering what the effects of misinformation are on online discussions, do they trigger conflict and anger, and does this then lead to higher engagement?
 :::
 
+# What are the effects of misinformation on social media discussions?
+
 ## But: measurement matters!
--   Paper with Jana
+
+::: columns
+
+::: {.column width="40%"}
+
+::: fragment
+![](images/review-table.png){width="1000"}
+:::
+
+:::
+
+::: {.column width="60%"}
+
+![](images/newsguard-approaches.png){width="1000"}
+
+::: fragment
+$\rightarrow$ How does this influence downstream research results?
+
+$\rightarrow$ How volatile is NewsGuard?
+:::
+
+
+:::
+
+
+:::
 
 ::: footer
-Luehring et al., (*in prep.*)
+Luehring, Lasser et al., (*in prep.*)
 :::
 
 
@@ -198,7 +226,7 @@ Luehring et al., (*in prep.*)
 :::
 
 ::: footer
-Allen et al., [2024](https://www.science.org/doi/10.1126/science.adk3451); van der Linden & Krychenko [2024](https://www.science.org/doi/10.1126/science.adp9117)
+Allen et al., [2024](https://www.science.org/doi/10.1126/science.adk3451); van der Linden & Krychenko, [2024](https://www.science.org/doi/10.1126/science.adp9117)
 :::
 
 ::: notes
@@ -239,7 +267,6 @@ So, we derived 2 major objectives:
 -   Second, we tried a matching approach to approximate causal inference so that we could isolate the effects of untrustworthy sources
 :::
 
-# What are the effects of misinformation on social media discussions?
 
 
 ## Data collection
