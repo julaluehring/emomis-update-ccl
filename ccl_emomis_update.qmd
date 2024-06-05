@@ -463,13 +463,12 @@ Lastly, we wanted to look at the associations between trustworthiness and engage
 Here, we included the zero replies, which zero-inflated the distribution, which you can see in the top corner
 
 -   The results of our logistic regression model show that trustworthy information generally gets more likes than untrustworthy information. And the count model shows that, when excess zeroes are excluded, a lower trustworthiness score is associated with more retweets and quote retweets
+
+-   Bad sources getting more reshares is also in line with the FB and Instagram experiments, where removing reshares reduced the exposure to misinformation.
 :::
 
 # Conclusion (tentative)
 
-::: notes
-The conclusion so far
-:::
 
 ## Emotions $\rightarrow$ emotions $\rightarrow$ engagement?
 
@@ -477,11 +476,14 @@ The conclusion so far
 -   Emotions in discussions largely reflect emotions in initial post
 -   Is engagement with low trustworthiness due to covariates?
 
+$\rightarrow$ Not the factfulness is harmful, but the content
+
+$\rightarrow$ Misinformation is a perfect tool to spread harmful content
+
 ::: notes
 -   Low trustworthiness predicts anger and conflict in discussions
 -   But, emotions in discussions largely reflect emotions in initial posts
 -   Therefore, we assume that misinformation includes more anger and conflict, which leads to engagement, not the trustworthiness. If we measured topics, this effect would probably largely be explained by that.
--   Bad sources getting more reshares is also in line with the FB and Instagram experiments, where removing reshares reduced the exposure to misinformation.
 :::
 
 ## Up next
@@ -507,13 +509,7 @@ Carrella et al., [2023](https://osf.io/qx34w); Gonzalez-Bailon et al., [2010](ht
 :::
 :::
 
-::: notes
-Thank you very much!
 
-Feel free to reach out to me if you have any questions
-
-Also, this QR code leads to the slides
-:::
 
 ## Is lower trustworthiness associated with higher engagement? {visibility="uncounted"}
 
