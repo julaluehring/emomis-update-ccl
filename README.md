@@ -1,6 +1,8 @@
 # Presentation at the Computational Communication Science Lab, University of Vienna
 Wednesday, 5th of June, 2024
 
+Link the the slides [here](https://julaluehring.github.io/emomis_update_ccl/)
+
 Title: Effects of Source Trustworthiness on Online Discussions
 
 
